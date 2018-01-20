@@ -5,6 +5,7 @@
 
 body{
 	font: 16px 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
 }
 
 h1 {
@@ -13,7 +14,6 @@ h1 {
 	position: relative;
 	bottom: 10px;
 
-
 }
 
 h2 {
@@ -21,6 +21,7 @@ h2 {
 	font-family: 'Georgia', Times, 'Times New Roman', serif;
 	color: #4aaaa5;
 	border-bottom: 2px solid #ccc;
+
 }
 
 h3 {
@@ -53,11 +54,13 @@ h3 {
 	border: 1px;
 	border-style: block;
 	outline-color: #dddddd;
+
 }
 
 p {
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-text-align: center;
+	text-align: center;
+
 }
 
 #profilePicture {
@@ -70,16 +73,19 @@ text-align: center;
 #gitHubPicture{ 
 	width: 75px;
 	height: 75px;
+
 }
 
 #linkedInPicture{
 	width: 75px;
 	height: 75px;
+
 }
 
 #stackOverFlowPicture{
 	width: 75px;
 	height: 75px;
+
 }
 
 #sideBar{
@@ -94,6 +100,7 @@ text-align: center;
 	width: 270px;
 	right: 100px;
 	top: 100px;
+
 }
 
 #directory{
@@ -112,6 +119,7 @@ nav a{
 	height: 10px;
 	width: 25px;
 	padding: 0 10px;
+
 }
 
 
@@ -127,17 +135,18 @@ nav a{
 	padding: 50px;
 	border: 1px;
 	border-style: block;
+
 }
 
 #header {
-    z-index: 1;
-		position: fixed;
-    width: 100%;
-    top: 0;
-    height: 60px;
-		background-color: #ffffff;
-		border-bottom: 3px solid #dddddd;
-    margin-bottom: 10px;
+  z-index: 1;
+	position: fixed;
+  width: 100%;
+  top: 0;
+  height: 60px;
+	background-color: #ffffff;
+	border-bottom: 3px solid #dddddd;
+  margin-bottom: 10px;
  
 }
 
@@ -164,6 +173,7 @@ footer{
 	outline-style: block;
 	outline-color: #777777;
 	outline-width: 5px;
+
 }
 
 .placeHolderImg{
@@ -172,10 +182,12 @@ footer{
 	width: 225px;
 	display: inline-block;
 	position: relative;
+
 }
 
 .photos{
 	width: 225px;
+
 }
 
 .portfolioText{
@@ -186,13 +198,16 @@ background-color: #4aaaa5;
 text-align: center;
 width: 225px;
 height: 40px;
+
 }
 
 #message{
 	width: 585px;
 	height: 200px;
+
 }
 
 #contactBoxes{
 	width: 585px;
+
 }
