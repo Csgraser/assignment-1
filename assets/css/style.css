@@ -20,10 +20,12 @@ h2 {
 	z-index: 3;
 	font-family: 'Georgia', Times, 'Times New Roman', serif;
 	color: #4aaaa5;
-	border-bottom: 2px solid #ccc;
-	margin-top: 80px;
+	border-bottom: 1px solid #ccc;
+	margin-top: 5px;
 
 }
+
+
 
 h3 {
 	font-family: 'Georgia', Times, 'Times New Roman', serif;
@@ -136,6 +138,10 @@ nav a{
 	padding: 50px;
 	border: 1px;
 	border-style: block;
+	z-index: 3;
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
+color: #4aaaa5;
+border-bottom: 1px solid #ccc;
 
 }
 
@@ -171,9 +177,11 @@ footer{
 	height: 665px;
 	margin-left: 95px;
 	margin-right: 470px;
-	outline-style: block;
-	outline-color: #777777;
-	outline-width: 5px;
+	margin-top: 100px;
+	outline-style: solid;
+	outline-color: #dddddd;
+	outline-width: 1px;
+	
 
 }
 
@@ -211,4 +219,11 @@ height: 40px;
 #contactBoxes{
 	width: 585px;
 
+}
+
+#submitButton{
+	color: white;
+	background-color: #4aaaa5;
+	width: 100px;
+	height: 50px;
 }
