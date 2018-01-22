@@ -22,6 +22,7 @@ h2 {
 	color: #4aaaa5;
 	border-bottom: 1px solid #ccc;
 	margin-top: 5px;
+	margin-right: 105px;
 
 }
 
@@ -70,6 +71,7 @@ p {
 	float: left;
 	width: 200px;
 	height: 200px;
+	margin-right: 20px
 	
 }
 
@@ -132,7 +134,7 @@ nav a{
 	outline-color: #dddddd;
 	background-size: 650px;
 	background-color: #ffffff;
-	margin-left: 100px;
+	margin-left: 110px;
 	margin-top: 100px;
 	width: 50%;
 	padding: 50px;
@@ -140,8 +142,7 @@ nav a{
 	border-style: block;
 	z-index: 3;
 	font-family: 'Georgia', Times, 'Times New Roman', serif;
-color: #4aaaa5;
-border-bottom: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
 
 }
 
@@ -173,9 +174,9 @@ footer{
 
 .portfolioImages{
 	background-color: #ffffff;
-	width: 600px;
+	width: 650px;
 	height: 460px;
-	margin-left: 180px;
+	margin-left: 110px;
 	margin-right: 470px;
 	margin-top: 100px;
 	outline-style: solid;
@@ -198,17 +199,29 @@ footer{
 .photos{
 	width: 225px;
 	padding-top: 30px;
+	margin-left: 15px;
 }
 
 .portfolioText{
 position: absolute;
 z-index: 3;
+margin-left: 15px;
 top: 160px;
 background-color: #4aaaa5;
 text-align: center;
 width: 225px;
 height: 40px;
 
+}
+
+#portfolioHeader{
+	z-index: 3;
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
+	color: #4aaaa5;
+	border-bottom: 1px solid #ccc;
+	margin-top: 5px;
+	margin-left: 65px;
+	margin-right: 75px;
 }
 
 #message{
